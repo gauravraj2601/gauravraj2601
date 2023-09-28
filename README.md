@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gauravraj2601.github.io/)
 
 - 📫 How to reach me **gauravraj2601@gmail.com**
 
