@@ -13,6 +13,7 @@
 - 📫 How to reach me **gauravraj2601@gmail.com**
 - 💬 Connect with me through <b><a href="https://www.linkedin.com/in/gaurav-raj-915150157/" target="_blank">LinkedIn</a></b>
 - 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1-iFkh-nswSYpjmqajC0bGXraWz5Aqz0m/view?usp=sharing" target="_blank">RESUME</a></b>
+- 👨‍💻🖼️ Projects Gallery [Projects Gallery](https://project-collection-five.vercel.app/)
 
    <hr>
 <h3 align="left">Connect with me:</h3>
